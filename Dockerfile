@@ -1,1 +1,1 @@
-FROM christinadarawshe/platform:1.1.0
+FROM platform:1.1.0
