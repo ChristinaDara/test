@@ -1,1 +1,1 @@
-FROM christinadarawshe/platform:1.1.0
+FROM alpine:3.17.5
